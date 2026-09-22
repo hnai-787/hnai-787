@@ -14,7 +14,7 @@
 
 BS Cyber Security @ Air University · VAPT Analyst @ NCSA · CTF Player (Team Aconite)
 
-I break systems to understand them, build tools to automate that process, and compete in CTFs to stay sharp. Batch & CGPA topper for **6 consecutive semesters** (3.63/4.00).
+I break systems to understand them, build tools to automate that process, and compete in CTFs to stay sharp. Batch topper for **6 consecutive semesters** (3.63/4.00).
 
 ---
 
@@ -22,7 +22,7 @@ I break systems to understand them, build tools to automate that process, and co
 
 - **VAPT Analyst** @ National Cyber Security Academy (NCSA), Air University
 - **Offensive security research** — static analysis, network tooling, security automation
-- **CTF** — Team Aconite · BlackHat MEA 2026 Qualifier (#72 · 1,500 pts · 15 flags) · SOFTEC · PCC
+- **CTF** — Team Aconite · BlackHat MEA 2026 Qualifier (Rank #72)
 - **Freelance** — mobile apps, Python tooling, ML projects
 
 ---
@@ -72,16 +72,6 @@ I break systems to understand them, build tools to automate that process, and co
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnai-787&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
-
----
-
-## CTF Highlights
-
-| Competition | Team | Result |
-|---|---|---|
-| BlackHat MEA 2026 Qualifier | Aconite | Rank #72 · 1,500 pts · 15 flags |
-| SOFTEC 2025 | — | Participation |
-| PCC 2025 | — | Participation |
 
 ---
 
